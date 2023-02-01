@@ -11,3 +11,4 @@
 !_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20220904.0/
 addition	app.js	/^function addition(a,b) {$/;"	f
 main	app.js	/^function main() {$/;"	f
+subtraction	app.js	/^function subtraction(a,b) {$/;"	f
